@@ -1,6 +1,6 @@
 ### Hi! I'm Diego 👨🏻‍💻
 
-Currently working as Full Stack Developer 🧙🏻‍♂️
+Currently working as Software Engineer with AI and Machine Learning Operations. 🧙🏻‍♂️
 
 <!-- and coffee enthusiast ☕️  -->
 
