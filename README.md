@@ -2,14 +2,17 @@
 
 Currently working as Software Engineer with AI and Machine Learning Operations. 🧙🏻‍♂️
 
+
+AWS Cloud Practioner Certified
+
 <!-- and coffee enthusiast ☕️  -->
 
 <!-- ### Tools I'm passionate about 🛠 -->
 
-![](https://img.shields.io/badge/Javascript-React-%2341B883)
-![](https://img.shields.io/badge/Javascript-NextJS-%23000)
-![](https://img.shields.io/badge/Javascript-Node-%215732)
-![](https://img.shields.io/badge/JavaScript-TypeScript-%232F74C0)
+![](https://img.shields.io/badge/React-%2341B883)
+![](https://img.shields.io/badge/Node-%215732)
+![](https://img.shields.io/badge/TypeScript-%232F74C0)
+![](https://img.shields.io/badge/Python-%232F74C0)
 
 ![](https://img.shields.io/badge/CSS-Tailwindcss-%2306B6D4)
 
