@@ -14,8 +14,6 @@ AWS Cloud Practioner Certified
 ![](https://img.shields.io/badge/TypeScript-%232F74C0)
 ![](https://img.shields.io/badge/Python-%232F74C0)
 
-![](https://img.shields.io/badge/CSS-Tailwindcss-%2306B6D4)
-
 ![](https://img.shields.io/badge/Cloud-AWS-%2341B883)
 ![](https://img.shields.io/badge/Cloud-GCP-%2341B883)
 
